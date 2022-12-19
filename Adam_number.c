@@ -20,14 +20,14 @@ int main()
         s=s*10+r;
         q=q/10;
     }
-    rsn2=s;
-    if(sn1==rsn2)
-    {
-        printf("True");
-    }
-    else
-    {
-        printf("False");
-    }
+     rsn2=s;
+     if(sn1==rsn2)
+     {
+         printf("True");
+     }
+     else
+     {
+         printf("False");
+     }
     
 }
