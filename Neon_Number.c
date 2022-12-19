@@ -15,10 +15,7 @@ int main()
     {
         printf("Neon Number");
     }
-    else
-    {
+    else{
         printf("Not Neon Number");
     }
-    
-    
 }
